@@ -1,5 +1,5 @@
 # AI-Calender-Assistant
-# 🧠 Tailor Talk: AI Calendar Booking Assistant
+#  AI Calendar Booking Assistant
 
 This project is a conversational AI assistant built using **FastAPI**, **Gemini (Google Generative AI)**, and the **Google Calendar API**. It understands natural language to schedule events, appointments, meetings, or calls at accurate dates and times.
 
