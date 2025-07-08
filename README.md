@@ -7,14 +7,14 @@ This project is a conversational AI assistant built using **FastAPI**, **Gemini 
 
 ## ✨ Features
 
-- 🗣️ Conversational AI with memory using LangChain + Gemini Pro
-- 📅 Books events directly into **Google Calendar**
-- 🕓 Understands phrases like:
-  - `book an appointment for tomorrow at 11am`
-  - `schedule meeting next Friday at 2pm`
-  - `call with Rishin at 4pm tomorrow`
-- ✅ Handles fuzzy dates like `"next Saturday"`, `"Friday 12pm"`, `"2025-07-12 at 10am"`
-- 🔁 Persistent session memory using `ConversationBufferMemory`
+- 🗣️ Conversational AI with memory using LangChain + Gemini Pro<br>
+- 📅 Books events directly into **Google Calendar**<br>
+- 🕓 Understands phrases like:<br>
+  - `book an appointment for tomorrow at 11am`<br>
+  - `schedule meeting next Friday at 2pm`<br>
+  - `call with Rishin at 4pm tomorrow`<br>
+- ✅ Handles fuzzy dates like `"next Saturday"`, `"Friday 12pm"`, `"2025-07-12 at 10am"`<br>
+- 🔁 Persistent session memory using `ConversationBufferMemory`<br>
 
 ---
 
