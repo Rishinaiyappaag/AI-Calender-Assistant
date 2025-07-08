@@ -33,8 +33,7 @@ This project is a conversational AI assistant built using **FastAPI**, **Gemini 
 ## 🛠️ Setup Instructions
 
 ### 1. 📁 Clone the Repo
-
-```bash
+bash
 git clone https://github.com/yourusername/AI-Calender-Assistant.git
 cd ai-calendar-agent<br>
 
@@ -46,17 +45,13 @@ pip install -r requirements.txt
 ### 3. 🔐 Setup Environment Variables
 Create a .env file (or backend/ai.env) with your Gemini API Key:
 GOOGLE_API_KEY=your-gemini-api-key
+
 ### 4. 🔑 Setup Google Calendar API
 Go to Google Cloud Console.
-
 Create a new project & enable Google Calendar API.
-
 Create a Service Account and download the credentials.json file.
-
 Share access to your calendar with the service account email (e.g., xyz@project.iam.gserviceaccount.com).
-
 Place the credentials.json file inside the backend/ folder.
-
 Update your calendar ID in backend/calendar_utils.py:
 
 ### 5. 🚀 Run the Server
